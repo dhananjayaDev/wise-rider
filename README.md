@@ -23,7 +23,8 @@
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+![Home Screen](ss1.png)
+![Map Result](ss2.png)
 
 ## 📦 Getting Started
 
